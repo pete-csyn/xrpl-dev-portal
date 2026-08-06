@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T00:51:36Z",
+  "fetched_at": "2026-08-06T00:48:36Z",
   "result": "success",
   "count": 103,
   "amendments": [
@@ -26,14 +26,20 @@
     {
       "id": "9F287AED3CDB50A7BD1ACEC24296A30C9B5230CCD136219317AC790E3B884377",
       "name": "BatchV1_1",
-      "rippled_version": "",
+      "rippled_version": null,
       "retired": false,
       "obsolete": false,
       "threshold": "28/35",
       "consensus": "0.00%",
       "voted": {
-        "count": 0,
-        "validators": []
+        "count": 1,
+        "validators": [
+          {
+            "signing_key": "n9JebyUXwBa5GoYJQ6AbupoMKyE2zaiR3FTfDTMkxpMMv1KPmQEn",
+            "ledger_index": "106098687",
+            "unl": false
+          }
+        ]
       }
     },
     {
@@ -285,42 +291,42 @@
         "validators": [
           {
             "signing_key": "n94JBmHVjAFvpH7UA9YSPwUdZjG93LwTVgN4zzZkhRdkVmP71jBz",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n94NmYJ5BW9VRZiBziUgEjGXQDm1aP16yDPTVzsmipCsA6315b6F",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n94QdD6ZAz84rgHJvKXGGNPySYTqPqNnWzvrZrrB3JcdESQNtd8z",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9JeA5Q54JhUQYHieb2j7ZTCg9RTBagDkam3UP2kWQxTXfxFkA8R",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9JgxBLdCHii4xnRNMk7WJhD2qmfJGRvCxmmNNivBZXPRVpeZkH3",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9JiXhdJTciGiENZ3xUgo6hGN3ZPpeLSzJiPgwY17exsNxo9yRws",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9JqQG9KVpmHVsQHsLofAyg3XSYm6vsmHNRt3U2vgFGYFTB8Dm5m",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9KbSbvD6AEfhw9QarooW8VHn5vrsY3cyuFpAS3duY7Jfdmb2MTG",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
@@ -330,22 +336,22 @@
           },
           {
             "signing_key": "n9KE55fz1jF3UAgd4Xbq3LyuqriyAWn8Z6YvvnK8hx3Q3qt5KDFa",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9KkB2VrSQuRNF1KpaS7G9i6yz7pinN4XAoREhqKya2aWirjcEXz",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9KkK4BiTTXjeF31KX4fTJkyVtH89ik4apq4wF7sQzqmbqBYcU3H",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9Km4Xz53K9kcTaVn3mYAHsXqNuAo7A2HazSr34SFufvNwBxYGLn",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -355,7 +361,7 @@
           },
           {
             "signing_key": "n9KToXL6QaiMMDJWEpnJg5yt26nEoftNnkLjaJYLCikdfaveR2hr",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -365,22 +371,22 @@
           },
           {
             "signing_key": "n9LbM9S5jeGopF5J1vBDoGxzV6rNS8K1T5DzhNynkFLqR9N2fywX",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9LBTr3b82CHMtpKKatKPZDcBEit1WX27SUVgmt9AJ6NmbxqycEr",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9LkAv98aaGupypuLMH5ogjJ3rTEX178s9EnmRvmySL9k3cVuxTu",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9Lqr4YZxk7WYRDTBZjjmoAraikLCjAgAswaPaZ6LaGW6Q4Y2eoo",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -390,17 +396,17 @@
           },
           {
             "signing_key": "n9MngHUqEeJXd8cgeEGsjvm9FqQRm4DwhCrTYCtrfnm5FWGFaR6m",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9MSTcx1fmfyKpaDTtpXucugcqM7yxpaggmwRxcyA3Nr4pE1pN3x",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9MZ7EVGKypqdyNguP31xSqhFqDBF4V5FESLMmLiGrBJ3khP2AzQ",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           }
         ]
@@ -542,47 +548,47 @@
         "validators": [
           {
             "signing_key": "n94JBmHVjAFvpH7UA9YSPwUdZjG93LwTVgN4zzZkhRdkVmP71jBz",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n94NmYJ5BW9VRZiBziUgEjGXQDm1aP16yDPTVzsmipCsA6315b6F",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n94QdD6ZAz84rgHJvKXGGNPySYTqPqNnWzvrZrrB3JcdESQNtd8z",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9JeA5Q54JhUQYHieb2j7ZTCg9RTBagDkam3UP2kWQxTXfxFkA8R",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9JgxBLdCHii4xnRNMk7WJhD2qmfJGRvCxmmNNivBZXPRVpeZkH3",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9JiXhdJTciGiENZ3xUgo6hGN3ZPpeLSzJiPgwY17exsNxo9yRws",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9JqQG9KVpmHVsQHsLofAyg3XSYm6vsmHNRt3U2vgFGYFTB8Dm5m",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9K1AwAsPitztqubVSzPdtxjTEF1E1MjhGmLt9gwZcmMXTtxr4PL",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9KbSbvD6AEfhw9QarooW8VHn5vrsY3cyuFpAS3duY7Jfdmb2MTG",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
@@ -592,22 +598,22 @@
           },
           {
             "signing_key": "n9KE55fz1jF3UAgd4Xbq3LyuqriyAWn8Z6YvvnK8hx3Q3qt5KDFa",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9KkB2VrSQuRNF1KpaS7G9i6yz7pinN4XAoREhqKya2aWirjcEXz",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9KkK4BiTTXjeF31KX4fTJkyVtH89ik4apq4wF7sQzqmbqBYcU3H",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9Km4Xz53K9kcTaVn3mYAHsXqNuAo7A2HazSr34SFufvNwBxYGLn",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -627,7 +633,7 @@
           },
           {
             "signing_key": "n9KToXL6QaiMMDJWEpnJg5yt26nEoftNnkLjaJYLCikdfaveR2hr",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -637,17 +643,17 @@
           },
           {
             "signing_key": "n9LbM9S5jeGopF5J1vBDoGxzV6rNS8K1T5DzhNynkFLqR9N2fywX",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9LkAv98aaGupypuLMH5ogjJ3rTEX178s9EnmRvmySL9k3cVuxTu",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9Lqr4YZxk7WYRDTBZjjmoAraikLCjAgAswaPaZ6LaGW6Q4Y2eoo",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -657,17 +663,17 @@
           },
           {
             "signing_key": "n9MngHUqEeJXd8cgeEGsjvm9FqQRm4DwhCrTYCtrfnm5FWGFaR6m",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9MSTcx1fmfyKpaDTtpXucugcqM7yxpaggmwRxcyA3Nr4pE1pN3x",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9MZ7EVGKypqdyNguP31xSqhFqDBF4V5FESLMmLiGrBJ3khP2AzQ",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           }
         ]
@@ -686,14 +692,20 @@
     {
       "id": "BE1F90581635DBCEBFC4678C4B54FEDDC1A17B50FD02CFE765A4132A342126AC",
       "name": "Sponsor",
-      "rippled_version": "",
+      "rippled_version": null,
       "retired": false,
       "obsolete": false,
       "threshold": "28/35",
       "consensus": "0.00%",
       "voted": {
-        "count": 0,
-        "validators": []
+        "count": 1,
+        "validators": [
+          {
+            "signing_key": "n9JebyUXwBa5GoYJQ6AbupoMKyE2zaiR3FTfDTMkxpMMv1KPmQEn",
+            "ledger_index": "106098687",
+            "unl": false
+          }
+        ]
       }
     },
     {
@@ -749,22 +761,22 @@
         "validators": [
           {
             "signing_key": "n9JiUqAXcHFzNFtdJ9uYeNZsdJTs1LGf4zr98bN7mWHxdtDpijAB",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9JvsY3yhCdsHe3JsVTwvCtvKnchg2eridHLWdBdWf8VkpZSqqS9",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9KAE7DUEB62ZQ3yWzygKWWqsj7ZqchW5rXg63puZA46k7WzGfQu",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9KE55fz1jF3UAgd4Xbq3LyuqriyAWn8Z6YvvnK8hx3Q3qt5KDFa",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
@@ -779,17 +791,17 @@
           },
           {
             "signing_key": "n9Lgkq8mZXY5j4ns6MY2GmTMZjL7C5smsjM3Nmxbzzk5sry9mgD4",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9LkAv98aaGupypuLMH5ogjJ3rTEX178s9EnmRvmySL9k3cVuxTu",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9LvxiHe5wve7yLe1R1MagKboVs5WrWSJMEsXtJrfqtAwCswjKsd",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -799,12 +811,12 @@
           },
           {
             "signing_key": "n9MngHUqEeJXd8cgeEGsjvm9FqQRm4DwhCrTYCtrfnm5FWGFaR6m",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9MSUUgV5hBJGrf2aQyvwMVBzvBNYiSBrsDsDvR88YoTcriQ9XGj",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           }
         ]
@@ -1376,52 +1388,52 @@
         "validators": [
           {
             "signing_key": "n94NmYJ5BW9VRZiBziUgEjGXQDm1aP16yDPTVzsmipCsA6315b6F",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n94QdD6ZAz84rgHJvKXGGNPySYTqPqNnWzvrZrrB3JcdESQNtd8z",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n94rGrfuwvYTS1HEeWboW2nGvAQgVDpiD8id2pLWSHFVggBRpQRE",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n94RkpbJYRYQrWUmL8PAVQ1XTVKtfyKkLm8C6SWzWPcKEbuNb6EV",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9JgxBLdCHii4xnRNMk7WJhD2qmfJGRvCxmmNNivBZXPRVpeZkH3",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9JiUqAXcHFzNFtdJ9uYeNZsdJTs1LGf4zr98bN7mWHxdtDpijAB",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9JvsY3yhCdsHe3JsVTwvCtvKnchg2eridHLWdBdWf8VkpZSqqS9",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9K1AwAsPitztqubVSzPdtxjTEF1E1MjhGmLt9gwZcmMXTtxr4PL",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9KAE7DUEB62ZQ3yWzygKWWqsj7ZqchW5rXg63puZA46k7WzGfQu",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9KE55fz1jF3UAgd4Xbq3LyuqriyAWn8Z6YvvnK8hx3Q3qt5KDFa",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
@@ -1441,12 +1453,12 @@
           },
           {
             "signing_key": "n9KRttNtSJ2NHX7P2RkoYpqf2cxhDfkcGCFswarLqHdjjfjPJFJB",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9L3nFdjPppHZe1UT4TSSr8sskJBdAKXsrN8zw8rwytLPaZSPMwV",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
@@ -1456,7 +1468,7 @@
           },
           {
             "signing_key": "n9LabXG8Vo7SfrUcZudeDCuFvWXW5TXbhUSYwgqmgYMFpUYuMN87",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -1466,22 +1478,22 @@
           },
           {
             "signing_key": "n9Lgkq8mZXY5j4ns6MY2GmTMZjL7C5smsjM3Nmxbzzk5sry9mgD4",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9Li3nhouMDBu1cw7PDa4Dh8QAQzBLNXoStpMdZ96T5W1bfKWpX2",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9LkWXS9HEY9adzT4y4J4Fbc1EFpKfuLf1gj2sTAktgZRukJcFiS",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9LvxiHe5wve7yLe1R1MagKboVs5WrWSJMEsXtJrfqtAwCswjKsd",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
@@ -1491,27 +1503,27 @@
           },
           {
             "signing_key": "n9LY8MFrFKudddAjrs3BZ33SwqCypV4aYqP7sH3VKgaJSz3aJUwL",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9M2UqXLK25h9YEQTskmCXbWPGhQmB1pFVqeXia38UwLaL838VbG",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9McDrz9tPujrQK3vMXJXzuEJv1B8UG3opfZEsFA8t6QxdZh1H6m",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": "vl.ripple.com"
           },
           {
             "signing_key": "n9MLGK3YiSFTVGGs8nhiyANMhNAxWJbhYrJ57CJhTMWZ4aPuM3RE",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           },
           {
             "signing_key": "n9MSUUgV5hBJGrf2aQyvwMVBzvBNYiSBrsDsDvR88YoTcriQ9XGj",
-            "ledger_index": "106076671",
+            "ledger_index": "106098687",
             "unl": false
           }
         ]
